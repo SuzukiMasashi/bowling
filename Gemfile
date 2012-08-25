@@ -1,4 +1,7 @@
+source :rubygems
 source "http://gems.github.com"
+
+gem "nokogiri"
 
 gem "rspec"
 
